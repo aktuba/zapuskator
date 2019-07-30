@@ -1,0 +1,14 @@
+{
+  "name": "aktuba/zapuskator",
+  "type": "library",
+  "require": {
+    "hassankhan/config": "^2.0",
+    "symfony/yaml": "^4.3"
+  },
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Zapuskator\\": "src/Zapuskator/"
+    }
+  }
+}
